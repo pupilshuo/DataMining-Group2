@@ -23,7 +23,7 @@ between the reorder product, aisles and department.The ExtractWeekendData.py ext
 The folder of Algorithm ----This folder includes four different algorithms
 (Eclat,Apriori,FP_Growth,Tree_projection),each sub folder includes the main python file and util python file 
 .Moreover,it contains the code computing the rules like the support,confidence and lift.With different supports 
-,we can yield the different results.
+,we can yield the different results. \
 The folder of Results ----This folder includes four different algorithms
 (Eclat,Apriori,FP_Growth,Tree_projection),each sub folder includes the main python file and util python file 
 .Moreover,it contains the code computing the rules like the support,confidence and lift.With different supports 
