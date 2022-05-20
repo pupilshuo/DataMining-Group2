@@ -1,0 +1,13 @@
+Item1,Item2,confidence,lift
+Organic Strawberries,Banana,0.211664979,1.44160709
+Banana,Organic Strawberries,0.118728004,1.44160709
+Organic Baby Spinach,Banana,0.212133251,1.444796395
+Banana,Organic Baby Spinach,0.108683041,1.444796395
+Bag of Organic Bananas,Organic Baby Spinach,0.133208417,1.770828623
+Organic Baby Spinach,Bag of Organic Bananas,0.209006575,1.770828623
+Bag of Organic Bananas,Organic Strawberries,0.163831565,1.989258954
+Organic Strawberries,Bag of Organic Bananas,0.234787373,1.989258954
+Banana,Organic Avocado,0.113193606,2.055949287
+Organic Avocado,Banana,0.301866206,2.055949287
+Bag of Organic Bananas,Organic Hass Avocado,0.163980959,2.484160406
+Organic Hass Avocado,Bag of Organic Bananas,0.293199382,2.484160406
